@@ -1,0 +1,15 @@
+.search-box {
+  width: 40%;
+  border-radius: 10px;
+  padding: 10px;
+}
+button {
+  margin-top: 10px;
+  width: 150px;
+  padding:10px;
+}
+.result {
+  width: 50%;
+  height: auto;
+  border: 1px solid red;
+}
